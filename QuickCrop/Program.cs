@@ -104,7 +104,7 @@ namespace QuickCrop
                 else
                 {
                     Console.WriteLine("QuickCrop by Pioziomgames");
-                    Console.WriteLine("A program for that allows quick cropping to content of png files.");
+                    Console.WriteLine("A program that allows quick cropping to content of png files.");
                     Console.WriteLine("Cropping to content refers to removing of all fully transparent pixel lines surrounding the visible image data.)");
                     Console.WriteLine("Usage:\n");
                     Console.WriteLine("QuickCrop.exe {file.png} //Crop the file to content");
